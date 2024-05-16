@@ -4,8 +4,10 @@ This project is a simple and intuitive Weather App that allows users to get real
 
 Features
 Real-Time Weather Data: Get current weather information including temperature, humidity, wind speed, and more.
+
 Search Functionality: Enter any city name to get the weather details for that location.
-User-Friendly Interface: Clean and responsive design for an optimal user experience on both desktop and mobile devices.
+
+User-Friendly Interface: Clean and responsive design for an optimal user experience.
 
 Technologies Used
 HTML: For the structure of the web pages.

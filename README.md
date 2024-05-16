@@ -1,6 +1,5 @@
-Project Title:
+Project Title: Weather App
 
-Weather App
 This project is a simple and intuitive Weather App that allows users to get real-time weather information for any location. The app is built using HTML, CSS, and JavaScript, and it leverages the powerful Weather API provided by OpenWeatherMap to fetch and display the latest weather data.
 
 Features
